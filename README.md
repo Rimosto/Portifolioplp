@@ -27,7 +27,7 @@ You can download my CV [here](Patrick_Rimosto_CV.docs).
 ## 🔗 Links
 
 - GitHub: [github.com/rimosto](https://github.com/rimosto)
-- LinkedIn: [linkedin.com/in/patrick-rimomo](https://linkedin.com/in/patrick-rimomo)
+- LinkedIn: [linkedin.com/in/patrick-rimomoh](https://www.linkedin.com/in/patrickrimomoh)
 
 ---
 
