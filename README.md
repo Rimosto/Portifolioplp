@@ -3,8 +3,7 @@
 Welcome to my personal portfolio built for the **PLP Academy July 2025 Hackathon**!
 
 ## 🌐 Live Preview
-
-> [Hosted on GitHub Pages or Netlify 
+> [Hosted on GitHub Pages or Netlify (link here)](https://rimosto.github.io/Portifolioplp)
 
 ## 📁 Sections
 
